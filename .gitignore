@@ -54,7 +54,8 @@ tmp/
 .metadata
 .classpath
 .project
-*.tmp
+*.class
+*.tmpi
 *.bak
 *.swp
 *~.nib
